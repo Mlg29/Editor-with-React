@@ -1,0 +1,15 @@
+.tool-bar {
+    display: flex;
+    flex-direction: row;
+    margin-left: -20%;
+    justify-content: center;
+    align-content: center;
+}
+
+.tool-text {
+    border: 1px solid black;
+    width: 500px;
+    margin-left: 14%;
+    background-color: dodgerblue;
+}
+
